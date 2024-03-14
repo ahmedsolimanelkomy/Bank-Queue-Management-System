@@ -1,0 +1,8 @@
+
+Metrics :
+Total customers served : 40
+total Service Time : 269
+total Waiting Time : 57
+Average waiting time : 1.425
+Average service time : 6.725
+Teller utilization rate : 0.517308

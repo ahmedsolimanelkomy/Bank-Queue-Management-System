@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1708553404 source:c:\project\bank queue management system\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<list>
+	<vector>
+	"Teller.h"
+	"Customer.h"
+	"BankQueue.h"
+	<windows.h>
+
+1708632442 c:\project\bank queue management system\include\teller.h
+	<Customer.h>
+
+1708632542 c:\project\bank queue management system\include\customer.h
+
+1707996871 c:\project\bank queue management system\include\queue.h
+
+1708632589 c:\project\bank queue management system\include\bankqueue.h
+	<iostream>
+	<queue>
+	<list>
+	<algorithm>
+	"Customer.h"
+	<windows.h>
+	<thread>
+
